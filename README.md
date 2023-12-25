@@ -1,4 +1,4 @@
-![game](https://github.com/mskstelios/Python-DodgeBall/assets/153899847/1c00aa5c-6999-4236-90cb-b2fb5c1d3166)<!DOCTYPE html>
+![game](https://github.com/mskstelios/Python-DodgeBall/assets/153899847/969b92ec-2681-42d4-aa53-da5edddce85b)![game](https://github.com/mskstelios/Python-DodgeBall/assets/153899847/1c00aa5c-6999-4236-90cb-b2fb5c1d3166)<!DOCTYPE html>
 <html>
 
 
@@ -14,6 +14,8 @@
 
   <h2>Screenshots</h2>
 
+
+  
   <h2>How to Play</h2>
 
   <p>Run the Python script to start the game. Use the mouse to control the player's ball and dodge incoming enemies. The game includes difficulty levels (Easy, Medium, Hard, Impossible) that can be selected at the start screen.</p>
