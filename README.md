@@ -18,7 +18,7 @@
   <p>Run the Python script to start the game. Use the mouse to control the player's ball and dodge incoming enemies. The game includes difficulty levels (Easy, Medium, Hard, Impossible) that can be selected at the start screen.</p>
 
   ```python
-    python dodge_ball_game.py
+    python dodge.py
   ```
 
   <h2>Controls</h2>
